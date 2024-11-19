@@ -8,7 +8,7 @@ langchain-huggingface==0.1.0
 langchain-openai==0.2.4
 markdown==3.4.4
 mitreattack-python==2.0.14
-nltk==3.8.2
+nltk==3.9
 numpy==1.26.4
 openai==1.54.1
 pandas==1.4.1
